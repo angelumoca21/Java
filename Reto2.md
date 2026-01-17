@@ -1,0 +1,4 @@
+- [Dos]()
+- Crea una variable (y una constante si el lenguaje lo soporta).
+- Crea variables representando todos los tipos de datos primitivos.
+- Imprime por terminal el texto: "¡Hola, [y el nombre de uno de tus compañeros]!"
