@@ -1,4 +1,2 @@
-- [Dos]()
-- Crea una variable (y una constante si el lenguaje lo soporta).
-- Crea variables representando todos los tipos de datos primitivos.
-- Imprime por terminal el texto: "¡Hola, [y el nombre de uno de tus compañeros]!"
+- [Reto 2]()
+    - Ingresa al siguiente link: [Ascii Art](https://www.asciiart.eu/) y escoge alguno de los ejemplos que te agrade para que realices un programa que imprima tu ascci art.

@@ -1,4 +1,4 @@
-- [Uno]()
+- [Reto 1]()
     - Crea un archivo nuevo con el nombre: `reto1.java`.
     - Crea un comentario en el código y coloca la URL del sitio web oficial del lenguaje de programación Java.
     - Representa las diferentes sintaxis que existen de crear comentarios en el lenguaje de programación Java.

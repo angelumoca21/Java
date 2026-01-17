@@ -1,4 +1,4 @@
-public class HolaMundo {
+public class ascii {
     public static void main(String[] args) {
         System.out.println("               _,........__");
         System.out.println("            ,-'            \"`-.");
