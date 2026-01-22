@@ -1,4 +1,4 @@
 - [Reto 6]()
 - Crea una variable (y una constante si el lenguaje lo soporta).
-- Crea variables representando todos los tipos de datos primitivos e imprimelos en la consola.
+- Crea variables representando todos los tipos de datos primitivos e imprimelos en la consola (también String).
 - Imprime por terminal el texto: "¡Hola, [y el nombre de uno de tus compañeros]!"
