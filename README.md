@@ -11,7 +11,7 @@ El estudiantado empleará los conocimientos en lenguaje de programación JAVA en
 - 50% Actividades en sesiones
 - 50% Proyecto final
 
-[## Archivos compartidos](https://github.com/angelumoca21/Java/tree/main/archivosRealizadosEnClase)
+## [Archivos compartidos](https://github.com/angelumoca21/Java/tree/main/archivosRealizadosEnClase)
 
 ## Temario 
 
@@ -29,4 +29,4 @@ El estudiantado empleará los conocimientos en lenguaje de programación JAVA en
 - [12.Entornos de desarrollo para crear aplicaciones ]()
 - 13.Proyecto final
 
-[## Retos y ejercicios]()
+## [Retos y ejercicios](https://github.com/angelumoca21/Java/blob/main/Retos.md)
