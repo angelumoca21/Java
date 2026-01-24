@@ -1,4 +1,4 @@
-- [Reto 7](https://github.com/angelumoca21/Java/blob/main/archivosRealizadosEnClase/retos/reto6.java)
+- [Reto 7](https://github.com/angelumoca21/Java/blob/main/archivosRealizadosEnClase/retos/reto7.java)
 - Crea una variable (y una constante si el lenguaje lo soporta).
 - Crea variables representando todos los tipos de datos primitivos e imprimelos en la consola (también String).
 - Imprime por terminal el texto: "¡Hola, [y el nombre de uno de tus compañeros]!"
