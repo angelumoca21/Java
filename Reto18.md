@@ -1,2 +1,2 @@
-[Reto 18]()
+[Reto 18](https://github.com/angelumoca21/Java/blob/main/archivosRealizadosEnClase/retos/Reto18.java)
 - Realiza una calculadora para obtener el área y el perímetro de un circulo, el radio se debe de almacenar en una variable llamada radio.

@@ -1,4 +1,5 @@
 [Reto 20]()
+
 Imagina un videojuego donde de manera aleatoria van apareciendo aliens en la pantalla de diferentes colores (verdes, amarillos y rojos).
 1.Crea una variable donde se almacene un color escogido por el usuario, si el color escogido es verde el usuario ganara 5 puntos (mostrar un mensaje especificando que gano) y si es diferente a verde no habrá salida de datos.
 
@@ -12,4 +13,4 @@ Si el color ingresado es amarillo el usuario gana 10 puntos.
 Si el color ingresado es rojo el usuario gana 15 puntos.
 Cualquier otra respuesta no gana puntos.
 
-[juegoAliens](./img/juegoAliens.webp)
+![juegoAliens](./img/juegoAliens.webp)

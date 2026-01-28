@@ -21,3 +21,8 @@
 - [19.Operadores](https://www.w3schools.com/java/exercise.asp?x=xrcise_operators1)
 - [20.Sentencias de control](./Reto20.md)
 - [21.Sentencias de control](./Reto21.md)
+- [22.Sentencias de control](https://www.w3schools.com/java/exercise.asp?x=xrcise_conditions1)
+- [23.Sentencias de control](https://www.w3schools.com/java/exercise.asp?x=xrcise_conditions_else1)
+- [24.Sentencias de control](https://www.w3schools.com/java/exercise.asp?x=xrcise_conditions_elseif1)
+- [25.Sentencias de control](https://www.w3schools.com/java/exercise.asp?x=xrcise_conditions_shorthand1)
+- [26.Sentencias de control](https://www.w3schools.com/java/exercise.asp?x=xrcise_switch1)
