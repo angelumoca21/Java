@@ -19,3 +19,5 @@
 - [17.Operadores](./Reto17.md)
 - [18.Operadores](./Reto18.md)
 - [19.Operadores](https://www.w3schools.com/java/exercise.asp?x=xrcise_operators1)
+- [20.Sentencias de control](./Reto20.md)
+- [21.Sentencias de control](./Reto21.md)
