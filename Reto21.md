@@ -5,6 +5,7 @@ La pizzería Bella Napoli ofrece pizzas vegetarianas y no vegetarianas a sus cli
 1.Ingredientes vegetarianos: 
     a.Pimiento
     b.Tofu
+    
 2.Ingredientes no vegetarianos:
     a.Peperoni
     b.Jamón
