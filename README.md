@@ -19,14 +19,17 @@ El estudiantado empleará los conocimientos en lenguaje de programación JAVA en
 - [2.Variables y tipos de datos](./2.VariablesYTiposDeDatos.md)
 - [3.Operadores](./3.Operadores.md)
 - [4.Sentencias de control](./4.SentenciasControl.md)
-- [5.Instrucciones]()
-- [6.Arreglos]()
-- [7.Programación Orientada a Objetos POO]()
-- [8.Variables de texto]()
-- [9.Pilas]()
-- [10.Colas]()
-- [11.Métodos de ordenamiento]()
-- [12.Entornos de desarrollo para crear aplicaciones ]()
-- 13.Proyecto final
+- [5.Entrada de datos](./5.EntradaDatos.md)
+
+
+- [6.Instrucciones]()
+- [7.Arreglos]()
+- [8.Programación Orientada a Objetos POO]()
+- [9.Variables de texto]()
+- [10.Pilas]()
+- [11.Colas]()
+- [12.Métodos de ordenamiento]()
+- [13.Entornos de desarrollo para crear aplicaciones ]()
+- 14.Proyecto final
 
 ## [Retos y ejercicios](https://github.com/angelumoca21/Java/blob/main/Retos.md)
