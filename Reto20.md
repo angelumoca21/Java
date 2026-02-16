@@ -1,4 +1,4 @@
-[Reto 20]()
+[Reto 20](https://github.com/angelumoca21/Java/blob/main/archivosRealizadosEnClase/retos/Reto20.java)
 
 Imagina un videojuego donde de manera aleatoria van apareciendo aliens en la pantalla de diferentes colores (verdes, amarillos y rojos).
 
