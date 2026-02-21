@@ -21,7 +21,7 @@ El estudiantado empleará los conocimientos en lenguaje de programación JAVA en
 - [4.Sentencias de control](./4.SentenciasControl.md)
 - [5.Entrada de datos](./5.EntradaDatos.md)
 - [6.Arreglos](./6.Arreglos.md)
-- [7.Variables de texto](./7.VariablesTexto.md)
+- [7.Strings](./7.Strings.md)
 
 - [8.Programación Orientada a Objetos POO]()
 - [10.Pilas]()
