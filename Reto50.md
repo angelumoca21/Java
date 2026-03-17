@@ -1,4 +1,4 @@
-[Reto 43]()
+[Reto 50]()
 
 Escribe una programa que reciba un texto y retorne verdadero o falso según sean o no palíndromos.
 Un Palíndromo es una palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda.

@@ -1,3 +1,3 @@
 [Reto 40]()
 
-Escribir un programa que pregunte el nombre completo del usuario en la consola y después muestre por pantalla el nombre completo del usuario dos veces, una con todas las letras minúsculas y otra con todas las letras mayúsculas. El usuario puede introducir su nombre combinando mayúsculas y minúsculas como quiera.
+Escribir una función que calcule el total de una factura tras aplicarle el IVA. La función debe recibir la cantidad sin IVA y el porcentaje de IVA a aplicar, y devolver el total de la factura. Si se invoca la función sin pasarle el porcentaje de IVA, deberá aplicar un 21%.
