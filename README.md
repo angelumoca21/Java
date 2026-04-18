@@ -25,7 +25,7 @@ El estudiantado empleará los conocimientos en lenguaje de programación JAVA en
 - [8.Strings](./8.Strings.md)
 - [9.Programación Orientada a Objetos POO](./9.POO.md)
 - [10.Estructuras de datos](./10.EstructurasDatos.md)
-- [11.Métodos de ordenamiento]()
+- [11.Métodos de ordenamiento](./11.Ordenamiento.md)
 - [12.Entornos de desarrollo para crear aplicaciones gráficas]()
 - 13.Proyecto final
 
