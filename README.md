@@ -26,7 +26,8 @@ El estudiantado empleará los conocimientos en lenguaje de programación JAVA en
 - [9.Programación Orientada a Objetos POO](./9.POO.md)
 - [10.Estructuras de datos](./10.EstructurasDatos.md)
 - [11.Métodos de ordenamiento](./11.Ordenamiento.md)
-- [12.Entornos de desarrollo para crear aplicaciones gráficas]()
-- 13.Proyecto final
+- [12.Entornos de desarrollo para crear aplicaciones gráficas](./12.GUI.md)
+- [13.Conexión con base de datos]()
+- 14.Proyecto final
 
 ## [Retos y ejercicios](https://github.com/angelumoca21/Java/blob/main/Retos.md)
